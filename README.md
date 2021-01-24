@@ -1,1 +1,1 @@
-# mern-event-registration-app
+# MERN Boilerplate
